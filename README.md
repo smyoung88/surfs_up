@@ -7,7 +7,7 @@ The purpose of this repository is to analyze temperature trends to assist an ent
 The temperature analysis data is shown below:
 
 <b> June and December Oahu, HI Temperature Statistics</b><br/><br/>
-<img src="https://github.com/smyoung88/surfs_up/blob/main/Resources/june_temps.png" margin=1px"><img src="https://github.com/smyoung88/surfs_up/blob/main/Resources/dec_temps.png">
+<img src="https://github.com/smyoung88/surfs_up/blob/main/Resources/june_temps.png" margin="1px"><img src="https://github.com/smyoung88/surfs_up/blob/main/Resources/dec_temps.png">
 
 <b> Three key differences in weather between June and December are:</b><br/>
 1. There are 183 more temperature samples in June than in December.
