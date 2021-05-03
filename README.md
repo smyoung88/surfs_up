@@ -5,10 +5,9 @@ The purpose of this repository is to analyze temperature trends to assist an ent
 
 ## Results 
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
-
-<img src="https://github.com/smyoung88/surfs_up/blob/Resources/june_temps.png">
-
-<img src="https://github.com/smyoung88/surfs_up/blob/Resources/dec_temps.png">
+<b> June and December Oahu, HI Temperature Statistics</b>
+<img src="https://github.com/smyoung88/surfs_up/blob/main/Resources/june_temps.png">
+<img src="https://github.com/smyoung88/surfs_up/blob/mainResources/dec_temps.png">
 
 
 ## Summary
