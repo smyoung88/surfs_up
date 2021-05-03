@@ -5,5 +5,11 @@ The purpose of this repository is to analyze temperature trends to assist an ent
 
 ## Results 
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
+
+<img src="https://github.com/smyoung88/surfs_up/blob/Resources/june_temps.png">
+
+<img src="https://github.com/smyoung88/surfs_up/blob/Resources/dec_temps.png">
+
+
 ## Summary
 Provide a high-level summary of the results and two additional queries that you would perform to gather more weather data for June and December.
