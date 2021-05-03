@@ -9,7 +9,7 @@ The temperature analysis data is shown below:
 <b> June and December Oahu, HI Temperature Statistics</b><br/><br/>
 <img src="https://github.com/smyoung88/surfs_up/blob/main/Resources/june_temps.png" margin="1px"><img src="https://github.com/smyoung88/surfs_up/blob/main/Resources/dec_temps.png">
 
-<b> Three key differences in weather between June and December are:</b><br/>
+<b> Three key differences in the weather datasets between June and December are:</b><br/>
 1. There are 183 more temperature samples in June than in December.
 2. The weather gets 8 degrees cooler in the winter than in the summer.
 3. All other statistics are within 4 degrees of each other.
