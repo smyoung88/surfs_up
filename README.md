@@ -1,7 +1,8 @@
 # surfs_up
-For this part of the Challenge, write a report that describes the key differences in weather between June and December and two recommendations for further analysis.
+
 ## Overview
-Explain the purpose of this analysis.
+The purpose of this repository is to analyze temperature trends to assist an entrepreneur with their decision making process on whether or not to open up a surf and icecream shop in Oahu. Specifically, temperature data for the months of June and December in Oahu are being analyzed in order to determine if the surf and ice cream shop business is sustainable year-round.
+
 ## Results 
 Provide a bulleted list with three major points from the two analysis deliverables. Use images as support where needed.
 ## Summary
