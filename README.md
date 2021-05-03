@@ -15,6 +15,6 @@ The temperature analysis data is shown below:
 3. All other statistics are within 4 degrees of each other.
 
 ## Summary
-Oahu, HI is a city where the weather ranges anywhere from 56 degrees to 85 degrees. This is a place where the swells are tall and the weather would always be favorable for a savory ice cream cone. A few different queries that could be ran to solidify this analysis would be to:
+Oahu, HI is a city where the weather ranges anywhere from 56 degrees to 85 degrees. This is a place where the swells are tall and the weather is accretive to savory ice cream cones. A few different queries that could be ran to solidify this analysis would be to:
 1. Query the count of data points per month to make sure roughtly the same amount of data points are in each month's sample so the overall statistics are not biased more towards one part of the year over the other.
 2. Bring in data where you could query all aspects of the weather, not just the temperature. Ideally, when opening a surf and ice cream shop, you would want it to be sunny and 75, not rainy. Even on the nicest of temperature days, I would bet business for both surfing and ice cream sales would decrease during rainy days. A query of this data followed by a visualization showing those relationships would be useful when analyzing weather between June and December in Oahu.
